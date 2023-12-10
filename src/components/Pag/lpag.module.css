@@ -1,0 +1,47 @@
+
+
+/* Header Styles */
+.headerStyle {
+    background-color: #333;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* Logo Styles */
+  .logoStyle {
+    margin: 5px;
+    
+  }
+  
+  /* Navigation Styles */
+  .navStyle {
+    display: flex;
+  }
+  
+  /* Button Styles */
+  .buttonStyle {
+    margin-left: 30px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Content Styles */
+  .contentStyle {
+    padding: 20px;
+  }
+
+  .contents {
+    background-color: #333;
+    margin-top: 10px;
+    padding: 80px 20px 80px 20px;
+     /* Top: 10px, Right: 20px, Bottom: 15px, Left: 5px */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }

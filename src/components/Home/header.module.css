@@ -1,0 +1,53 @@
+/* header.module.css */
+
+/* Estilos para o contêiner do cabeçalho */
+.header {
+    background-color: #333;
+    padding: 10px 20px;
+    justify-content: space-between;
+  }
+  
+  /* Estilos para a navegação dentro do cabeçalho */
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* Estilos para o logotipo */
+  .logo {
+    width: 50px; /* Ajuste conforme necessário */
+    height: 50px; /* Ajuste conforme necessário */
+    margin-right: 10px; /* Espaçamento entre o logotipo e o título */
+  }
+  
+  /* Estilos para o título do curso */
+  .curso {
+    color: #fff; /* Cor do texto */
+    margin: 0; /* Remova as margens padrão */
+    font-size: 19px;
+
+  }
+  
+  /* Estilos para o link de suporte */
+  .suporte {
+    color: #fff;
+    margin-left: auto; /* Move para a extremidade direita da navegação */
+    margin-right: 10px; /* Espaçamento entre o link de suporte e o botão de compartilhar */
+    font-weight: bold;
+    padding-right: 8px;
+
+ 
+  }
+  
+  /* Estilos para o botão de compartilhar */
+  .compartilhar {
+    background-color: rgb(8, 104, 155); /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    padding: 8px 8px; /* Espaçamento interno do botão */
+    border: none; /* Remove a borda padrão */
+    cursor: pointer; /* Adiciona um indicador de cursor ao passar o mouse sobre o botão */
+    width: 10%;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,23 @@
+.sobre {
+    background-color: #333;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:center
+}
+
+.text {
+    background-color: #333;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+
+}
